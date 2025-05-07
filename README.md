@@ -1,4 +1,4 @@
-# 🐱 CatLover App [app link](https://github.com/yn864/cat_tinder_/releases/tag/v.1.0.0)
+# 🐱 CatLover App [app link](https://github.com/yn864/cat_tinder_3/releases/tag/v.1.0.0)
 
 Приложение для любителей котиков с возможностью лайков, фильтрации и детальным просмотром пород
 
